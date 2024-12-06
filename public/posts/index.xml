@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    
+    
+    
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lab 10 Problem 3</title>
+      <link>http://example.org/posts/lab10c/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/lab10c/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          How I Built This Page #  How the Page Was Built #  Using the default Vim text editor on my machine, I made this page as a Markdown (.md) file, which is what the Hugo framework uses as its default content format. The process of making a site using Hugo involves writing content in Markdown and using Hugo to process it.
+ Installation: I installed Hugo using the package manager for my system (e.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
