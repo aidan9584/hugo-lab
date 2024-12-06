@@ -12,7 +12,7 @@ Using the default Vim text editor on my machine, I made this page as a **Markdow
 
 1. **Installation**: I installed Hugo using the package manager for my system (e.g., `sudo apt install hugo` on Linux Mint/Ubuntu).
 2. **Theme Setup**: Initially, I used the **Ananke** theme, but switched it later due to compatibility issues.
-3. **Page Creation**: I created the page using `hugo new posts/how-i-built-this-page.md` and Hugo processed it into a static HTML page.
+3. **Page Creation**: I created the page using `hugo new posts/lab10c.md` and Hugo processed it into a static HTML page.
 
 ---
 
@@ -34,7 +34,8 @@ Using the default Vim text editor on my machine, I made this page as a **Markdow
 
 ---
 
-### 3. Uploading to GitHub and Netlify
+## Uploading to GitHub and Netlify
+Lastly, to deploy the site online, I used **Netlify**:
  - I initialized a Git repo in my project folder, and pushed to my GitHub.
  - Then, I connected the GitHub repository to **Netlify**, which automatically detected the Hugo framework and deployed the site to a live URL.
 
