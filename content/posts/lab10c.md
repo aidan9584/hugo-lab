@@ -34,3 +34,8 @@ Using the default Vim text editor on my machine, I made this page as a **Markdow
 
 ---
 
+### 3. Uploading to GitHub and Netlify
+ - I initialized a Git repo in my project folder, and pushed to my GitHub.
+ - Then, I connected the GitHub repository to **Netlify**, which automatically detected the Hugo framework and deployed the site to a live URL.
+
+---
